@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# muBench: NON va versionato qui, e' uno strumento esterno che si clona a parte
+muBench/
+
+# YAML generati automaticamente dal deployer (derivati, non sorgenti)
+SimulationWorkspace/yamls/
+
+# Risultati pesanti: decommenta se NON vuoi versionare i dati grezzi
+# data/
+
+# Sistema
+.DS_Store
+*.swp
+*~
+.idea/
+.vscode/

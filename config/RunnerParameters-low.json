@@ -1,0 +1,12 @@
+{
+   "RunnerParameters":{
+      "ms_access_gateway": "http://127.0.0.1:31113",
+      "workload_files_path_list": ["SimulationWorkspace/workloads/workload-low.json"],
+      "workload_rounds": 3,
+      "workload_type": "file",
+      "workload_events": 5000,
+      "thread_pool_size": 16,
+      "result_file": "result-low"
+   },
+   "OutputPath": "SimulationWorkspace/Result"
+}

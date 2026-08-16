@@ -1,0 +1,108 @@
+{
+  "s0": {
+    "external_services": [
+      {
+        "seq_len": 1,
+        "services": ["s1"]
+      }
+    ],
+    "internal_service": {
+      "compute_pi": {
+        "range_complexity": [90, 110],
+        "mean_response_size": 5
+      }
+    },
+    "request_method": "rest",
+    "workers": 4,
+    "threads": 16,
+    "cpu-requests": "300m",
+    "cpu-limits": "500m",
+    "memory-requests": "128Mi",
+    "memory-limits": "256Mi",
+    "replicas": 1,
+    "url": "s0.default.svc.cluster.local",
+    "path": "/api/v1",
+    "image": "msvcbench/microservice_v6-screen:1.0",
+    "namespace": "default"
+  },
+  "s1": {
+    "external_services": [
+      {
+        "seq_len": 1,
+        "services": ["s2"]
+      }
+    ],
+    "internal_service": {
+      "compute_pi": {
+        "range_complexity": [90, 110],
+        "mean_response_size": 5
+      }
+    },
+    "request_method": "rest",
+    "workers": 4,
+    "threads": 16,
+    "cpu-requests": "300m",
+    "cpu-limits": "500m",
+    "memory-requests": "128Mi",
+    "memory-limits": "256Mi",
+    "replicas": 1,
+    "url": "s1.default.svc.cluster.local",
+    "path": "/api/v1",
+    "image": "msvcbench/microservice_v6-screen:1.0",
+    "namespace": "default"
+  },
+  "s2": {
+    "external_services": [
+      {
+        "seq_len": 1,
+        "services": ["s3"]
+      }
+    ],
+    "internal_service": {
+      "heavy_tail": {
+        "pareto_alpha": 1.5,
+        "scale_complexity": 40,
+        "cap_complexity": 2500,
+        "mean_response_size": 5
+      }
+    },
+    "request_method": "rest",
+    "workers": 4,
+    "threads": 16,
+    "cpu-requests": "500m",
+    "cpu-limits": "800m",
+    "memory-requests": "128Mi",
+    "memory-limits": "256Mi",
+    "replicas": 1,
+    "url": "s2.default.svc.cluster.local",
+    "path": "/api/v1",
+    "image": "msvcbench/microservice_v6-screen:1.0",
+    "namespace": "default"
+  },
+  "s3": {
+    "external_services": [
+      {
+        "seq_len": 1,
+        "services": []
+      }
+    ],
+    "internal_service": {
+      "compute_pi": {
+        "range_complexity": [90, 110],
+        "mean_response_size": 5
+      }
+    },
+    "request_method": "rest",
+    "workers": 4,
+    "threads": 16,
+    "cpu-requests": "300m",
+    "cpu-limits": "500m",
+    "memory-requests": "128Mi",
+    "memory-limits": "256Mi",
+    "replicas": 1,
+    "url": "s3.default.svc.cluster.local",
+    "path": "/api/v1",
+    "image": "msvcbench/microservice_v6-screen:1.0",
+    "namespace": "default"
+  }
+}
