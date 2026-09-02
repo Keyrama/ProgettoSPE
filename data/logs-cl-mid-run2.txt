@@ -1,0 +1,504 @@
+Round: 1 -- workload: SimulationWorkspace/workloads/workload-mid.json
+###############################################
+############   Run Forrest Run!!   ############
+###############################################
+Start Time: 21:22:19.014664 - 26/08/2026
+Processed request 1, latency 18, pending requests 0 
+
+Processed request 22, latency 40, pending requests 1 
+
+Processed request 39, latency 27, pending requests 0 
+
+Processed request 58, latency 32, pending requests 0 
+
+Processed request 74, latency 14, pending requests 1 
+
+Processed request 91, latency 35, pending requests 2 
+
+Processed request 111, latency 14, pending requests 0 
+
+Processed request 133, latency 32, pending requests 0 
+
+Processed request 152, latency 22, pending requests 1 
+
+Processed request 171, latency 38, pending requests 0 
+
+Processed request 195, latency 26, pending requests 0 
+
+Processed request 214, latency 13, pending requests 0 
+
+Processed request 224, latency 39, pending requests 0 
+
+Processed request 241, latency 40, pending requests 0 
+
+Processed request 257, latency 35, pending requests 0 
+
+Processed request 277, latency 14, pending requests 0 
+
+Processed request 297, latency 26, pending requests 0 
+
+Processed request 318, latency 29, pending requests 1 
+
+Processed request 348, latency 35, pending requests 2 
+
+Processed request 371, latency 35, pending requests 1 
+
+Processed request 388, latency 22, pending requests 0 
+
+Processed request 408, latency 14, pending requests 1 
+
+Processed request 425, latency 30, pending requests 0 
+
+Processed request 450, latency 16, pending requests 4 
+
+Processed request 465, latency 13, pending requests 0 
+
+Processed request 490, latency 13, pending requests 1 
+
+Processed request 511, latency 24, pending requests 0 
+
+Processed request 528, latency 32, pending requests 0 
+
+Processed request 546, latency 34, pending requests 1 
+
+Processed request 568, latency 21, pending requests 2 
+
+Processed request 590, latency 37, pending requests 2 
+
+Processed request 600, latency 32, pending requests 0 
+
+Processed request 619, latency 34, pending requests 1 
+
+Processed request 647, latency 25, pending requests 0 
+
+Processed request 661, latency 19, pending requests 1 
+
+Processed request 682, latency 12, pending requests 0 
+
+Processed request 702, latency 18, pending requests 3 
+
+Processed request 724, latency 17, pending requests 0 
+
+Processed request 751, latency 11, pending requests 0 
+
+Processed request 765, latency 30, pending requests 0 
+
+Processed request 781, latency 18, pending requests 2 
+
+Processed request 805, latency 19, pending requests 0 
+
+Processed request 829, latency 13, pending requests 0 
+
+Processed request 851, latency 16, pending requests 0 
+
+Processed request 872, latency 68, pending requests 4 
+
+Processed request 891, latency 19, pending requests 1 
+
+Processed request 904, latency 15, pending requests 1 
+
+Processed request 922, latency 13, pending requests 0 
+
+Processed request 946, latency 36, pending requests 1 
+
+Processed request 961, latency 20, pending requests 0 
+
+Processed request 979, latency 14, pending requests 0 
+
+Processed request 995, latency 16, pending requests 0 
+
+Processed request 1023, latency 28, pending requests 3 
+
+Processed request 1043, latency 32, pending requests 0 
+
+Processed request 1064, latency 17, pending requests 0 
+
+Processed request 1087, latency 33, pending requests 0 
+
+Processed request 1110, latency 33, pending requests 0 
+
+Processed request 1138, latency 26, pending requests 0 
+
+Processed request 1161, latency 17, pending requests 1 
+
+Processed request 1178, latency 21, pending requests 1 
+
+Processed request 1205, latency 28, pending requests 1 
+
+Processed request 1230, latency 27, pending requests 1 
+
+Processed request 1248, latency 27, pending requests 0 
+
+Processed request 1272, latency 23, pending requests 1 
+
+Processed request 1288, latency 13, pending requests 0 
+
+Processed request 1309, latency 33, pending requests 2 
+
+Processed request 1327, latency 14, pending requests 0 
+
+Processed request 1344, latency 40, pending requests 1 
+
+Processed request 1357, latency 28, pending requests 1 
+
+Processed request 1378, latency 40, pending requests 2 
+
+Processed request 1399, latency 24, pending requests 0 
+
+Processed request 1423, latency 14, pending requests 0 
+
+Processed request 1439, latency 15, pending requests 0 
+
+Processed request 1459, latency 34, pending requests 1 
+
+Processed request 1471, latency 15, pending requests 0 
+
+Processed request 1486, latency 27, pending requests 0 
+
+Processed request 1510, latency 20, pending requests 1 
+
+Processed request 1531, latency 39, pending requests 0 
+
+Processed request 1544, latency 14, pending requests 0 
+
+Processed request 1554, latency 15, pending requests 0 
+
+Processed request 1579, latency 20, pending requests 0 
+
+Processed request 1593, latency 46, pending requests 0 
+
+Processed request 1611, latency 16, pending requests 0 
+
+Processed request 1633, latency 14, pending requests 0 
+
+Processed request 1658, latency 30, pending requests 0 
+
+Processed request 1679, latency 21, pending requests 0 
+
+Processed request 1700, latency 15, pending requests 0 
+
+Processed request 1730, latency 42, pending requests 0 
+
+Processed request 1750, latency 12, pending requests 0 
+
+Processed request 1767, latency 13, pending requests 0 
+
+Processed request 1788, latency 18, pending requests 0 
+
+Processed request 1811, latency 16, pending requests 0 
+
+Processed request 1828, latency 34, pending requests 0 
+
+Processed request 1845, latency 33, pending requests 1 
+
+Processed request 1863, latency 15, pending requests 0 
+
+Processed request 1886, latency 15, pending requests 1 
+
+Processed request 1906, latency 18, pending requests 0 
+
+Processed request 1930, latency 13, pending requests 0 
+
+Processed request 1950, latency 19, pending requests 0 
+
+Processed request 1967, latency 13, pending requests 0 
+
+Processed request 1984, latency 14, pending requests 0 
+
+Processed request 2006, latency 28, pending requests 0 
+
+Processed request 2021, latency 12, pending requests 0 
+
+Processed request 2055, latency 19, pending requests 1 
+
+Processed request 2071, latency 16, pending requests 0 
+
+Processed request 2091, latency 32, pending requests 2 
+
+Processed request 2112, latency 17, pending requests 1 
+
+Processed request 2128, latency 16, pending requests 1 
+
+Processed request 2147, latency 25, pending requests 0 
+
+Processed request 2161, latency 30, pending requests 0 
+
+Processed request 2180, latency 14, pending requests 0 
+
+Processed request 2200, latency 42, pending requests 0 
+
+Processed request 2224, latency 13, pending requests 0 
+
+Processed request 2241, latency 20, pending requests 1 
+
+Processed request 2261, latency 25, pending requests 0 
+
+Processed request 2281, latency 15, pending requests 0 
+
+Processed request 2303, latency 34, pending requests 1 
+
+Processed request 2334, latency 15, pending requests 1 
+
+Processed request 2350, latency 17, pending requests 1 
+
+Processed request 2372, latency 30, pending requests 1 
+
+Processed request 2397, latency 37, pending requests 1 
+
+Processed request 2416, latency 24, pending requests 1 
+
+Processed request 2430, latency 24, pending requests 0 
+
+Processed request 2451, latency 34, pending requests 1 
+
+Processed request 2469, latency 35, pending requests 1 
+
+Processed request 2492, latency 35, pending requests 2 
+
+Processed request 2514, latency 14, pending requests 0 
+
+Processed request 2538, latency 37, pending requests 1 
+
+Processed request 2560, latency 18, pending requests 0 
+
+Processed request 2586, latency 18, pending requests 1 
+
+Processed request 2609, latency 39, pending requests 0 
+
+Processed request 2634, latency 13, pending requests 0 
+
+Processed request 2654, latency 30, pending requests 0 
+
+Processed request 2671, latency 14, pending requests 0 
+
+Processed request 2690, latency 14, pending requests 0 
+
+Processed request 2710, latency 27, pending requests 3 
+
+Processed request 2733, latency 12, pending requests 1 
+
+Processed request 2752, latency 13, pending requests 0 
+
+Processed request 2776, latency 18, pending requests 1 
+
+Processed request 2796, latency 12, pending requests 0 
+
+Processed request 2810, latency 20, pending requests 0 
+
+Processed request 2835, latency 35, pending requests 0 
+
+Processed request 2857, latency 15, pending requests 0 
+
+Processed request 2873, latency 26, pending requests 1 
+
+Processed request 2904, latency 36, pending requests 3 
+
+Processed request 2936, latency 18, pending requests 1 
+
+Processed request 2957, latency 37, pending requests 2 
+
+Processed request 2974, latency 39, pending requests 0 
+
+Processed request 2990, latency 36, pending requests 1 
+
+Processed request 3008, latency 30, pending requests 2 
+
+Processed request 3027, latency 31, pending requests 0 
+
+Processed request 3047, latency 33, pending requests 0 
+
+Processed request 3068, latency 37, pending requests 2 
+
+Processed request 3094, latency 21, pending requests 0 
+
+Processed request 3105, latency 26, pending requests 0 
+
+Processed request 3125, latency 25, pending requests 0 
+
+Processed request 3144, latency 30, pending requests 1 
+
+Processed request 3165, latency 35, pending requests 1 
+
+Processed request 3182, latency 20, pending requests 0 
+
+Processed request 3203, latency 14, pending requests 0 
+
+Processed request 3236, latency 13, pending requests 0 
+
+Processed request 3250, latency 19, pending requests 0 
+
+Processed request 3271, latency 34, pending requests 0 
+
+Processed request 3292, latency 36, pending requests 3 
+
+Processed request 3316, latency 23, pending requests 1 
+
+Processed request 3342, latency 28, pending requests 0 
+
+Processed request 3365, latency 24, pending requests 0 
+
+Processed request 3379, latency 15, pending requests 0 
+
+Processed request 3395, latency 15, pending requests 0 
+
+Processed request 3421, latency 36, pending requests 0 
+
+Processed request 3441, latency 46, pending requests 2 
+
+Processed request 3463, latency 14, pending requests 0 
+
+Processed request 3486, latency 86, pending requests 2 
+
+Processed request 3505, latency 14, pending requests 0 
+
+Processed request 3531, latency 12, pending requests 0 
+
+Processed request 3552, latency 37, pending requests 1 
+
+Processed request 3575, latency 14, pending requests 0 
+
+Processed request 3592, latency 34, pending requests 2 
+
+Processed request 3610, latency 16, pending requests 0 
+
+Processed request 3625, latency 22, pending requests 0 
+
+Processed request 3646, latency 40, pending requests 0 
+
+Processed request 3661, latency 13, pending requests 0 
+
+Processed request 3678, latency 32, pending requests 0 
+
+Processed request 3697, latency 22, pending requests 0 
+
+Processed request 3720, latency 15, pending requests 0 
+
+Processed request 3744, latency 30, pending requests 2 
+
+Processed request 3766, latency 38, pending requests 1 
+
+Processed request 3788, latency 24, pending requests 0 
+
+Processed request 3806, latency 31, pending requests 0 
+
+Processed request 3833, latency 14, pending requests 0 
+
+Processed request 3854, latency 39, pending requests 0 
+
+Processed request 3873, latency 34, pending requests 0 
+
+Processed request 3894, latency 14, pending requests 1 
+
+Processed request 3917, latency 32, pending requests 0 
+
+Processed request 3938, latency 45, pending requests 1 
+
+Processed request 3958, latency 37, pending requests 2 
+
+Processed request 3983, latency 15, pending requests 1 
+
+Processed request 4000, latency 12, pending requests 0 
+
+Processed request 4030, latency 19, pending requests 2 
+
+Processed request 4056, latency 39, pending requests 2 
+
+Processed request 4073, latency 30, pending requests 0 
+
+Processed request 4088, latency 30, pending requests 1 
+
+Processed request 4111, latency 18, pending requests 0 
+
+Processed request 4133, latency 14, pending requests 1 
+
+Processed request 4150, latency 37, pending requests 0 
+
+Processed request 4168, latency 19, pending requests 1 
+
+Processed request 4186, latency 36, pending requests 1 
+
+Processed request 4210, latency 13, pending requests 1 
+
+Processed request 4222, latency 38, pending requests 1 
+
+Processed request 4246, latency 17, pending requests 0 
+
+Processed request 4263, latency 33, pending requests 0 
+
+Processed request 4278, latency 31, pending requests 0 
+
+Processed request 4298, latency 31, pending requests 2 
+
+Processed request 4318, latency 33, pending requests 0 
+
+Processed request 4339, latency 18, pending requests 0 
+
+Processed request 4358, latency 26, pending requests 2 
+
+Processed request 4374, latency 30, pending requests 0 
+
+Processed request 4399, latency 18, pending requests 0 
+
+Processed request 4413, latency 20, pending requests 0 
+
+Processed request 4434, latency 13, pending requests 0 
+
+Processed request 4468, latency 19, pending requests 2 
+
+Processed request 4484, latency 21, pending requests 0 
+
+Processed request 4504, latency 17, pending requests 0 
+
+Processed request 4535, latency 29, pending requests 0 
+
+Processed request 4554, latency 20, pending requests 0 
+
+Processed request 4574, latency 18, pending requests 0 
+
+Processed request 4592, latency 17, pending requests 0 
+
+Processed request 4615, latency 13, pending requests 1 
+
+Processed request 4632, latency 13, pending requests 0 
+
+Processed request 4650, latency 27, pending requests 1 
+
+Processed request 4678, latency 30, pending requests 0 
+
+Processed request 4698, latency 29, pending requests 0 
+
+Processed request 4719, latency 18, pending requests 1 
+
+Processed request 4744, latency 13, pending requests 0 
+
+Processed request 4762, latency 20, pending requests 0 
+
+Processed request 4782, latency 29, pending requests 0 
+
+Processed request 4795, latency 23, pending requests 0 
+
+Processed request 4817, latency 36, pending requests 3 
+
+Processed request 4834, latency 13, pending requests 0 
+
+Processed request 4848, latency 15, pending requests 0 
+
+Processed request 4868, latency 13, pending requests 0 
+
+Processed request 4887, latency 34, pending requests 1 
+
+Processed request 4908, latency 12, pending requests 0 
+
+Processed request 4924, latency 14, pending requests 0 
+
+Processed request 4948, latency 37, pending requests 1 
+
+Processed request 4971, latency 16, pending requests 1 
+
+Processed request 4996, latency 22, pending requests 0 
+
+###############################################
+###########   Stop Forrest Stop!!   ###########
+###############################################
+Run Duration (sec): 261.212096 Total Requests: 5000 - Error Request: 0 - Timing Error Requests: 0 - Average Latency (ms): 24.343000 - Request rate (req/sec) 19.141533
+***************************************

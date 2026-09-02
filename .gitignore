@@ -20,3 +20,5 @@ SimulationWorkspace/yamls/
 *~
 .idea/
 .vscode/
+.ipynb_checkpoints/
+.venv-analysis/
